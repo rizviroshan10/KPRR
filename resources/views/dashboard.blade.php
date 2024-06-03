@@ -25,12 +25,12 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Tentang</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Pendaftaran</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Berita</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Guru</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Siswa</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Hubungi kami</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/tentang">Tentang</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/pendaftaran">Pendaftaran</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/berita">Berita</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/guru">Guru</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/siswa">Siswa</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/hubungi">Hubungi kami</a></li>
                         
                     </ul>
                 </div>
